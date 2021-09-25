@@ -24,10 +24,25 @@ Watched another 5 videos in the playlist. Link to the playlist 👇 <br>
   
  ## DAY 3
 
-<i>Day 3</i>, Today i tried to solve some easy exercises on the *Exercism* platform.
+<i>Day 3</i>, Today i tried to solve some easy exercises on the _Exercism_ platform.
+
  <p> Exercism is an online, open-source, free coding platform that offers code practice and mentorship on 50 different programming languages.</p>
 
-Link to the website  👇 <br>
+Link to the website 👇 <br>
 <a href="https://exercism.org/dashboard" >Exercism </a>
 
 <img src="https://en.wikipedia.org/wiki/Exercism#/media/File:Exercism_Logo.png">
+
+## Day 4
+
+<i>Day 4</i> with the <b>Namastey JavaScript <b>
+
+Watched another 2 Episodes in the playlist Episode 14 and Episode 15.
+
+watch the topics covered in <a href="./DAY_04/DAY_04.md">DAY_04
+
+-Link to the playlist 👇 <br>
+
+<a href="https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP" >Namastey JavaScript </a>
+
+<img src="/DAY_04/Assets/DAY_04.jpg" width="400" height="600">

@@ -122,6 +122,10 @@ The ability of functions to be used as values, passed to an argument as another 
 
 ## What is a Callback functions in javascript?
 
+Callbacks are a great way to handle something after something else has been completed. By something here we mean a function execution. If we want to execute a function right after the return of some other function, then callbacks can be used.
+
+JavaScript functions have the type of Objects. So, much like any other objects (String, Arrays etc.), They can be passed as an argument to any other function while calling.
+
 #### Index.js
 
 ```javascript
@@ -146,7 +150,17 @@ y;
 timer; //after 5 seconds
 ```
 
+#### callback functions in Developer tools
+
+<img src="./Assets/callbackfunctions.png">
+callback functions showing All scopes in Dev mode
+<img src="./Assets/CbScopes.png">
+
 <hr>
+
+### Garbage collection and remove Event listener
+
+#### index.js
 
 ```javascript
 function attachEventListeners() {
@@ -158,8 +172,5 @@ function attachEventListeners() {
 attachEventListeners();
 ```
 
-#### callback functions in Developer tools
-
-<img src="./Assets/callbackfunctions.png">
-    All scopes 
-<img src="./Assets/CbScopes.png">
+    Why do we need to remove EventListener?
+    The EventListeners takes memory . Whenever an eventListener  is attached it forms the closures or even when the call stack is empty.

@@ -1,12 +1,9 @@
 
-// function statement
-function a(){
-    console.log("a called");
-}
-// function expression
 
-var b = function(){
-    console.log("b called")
+function attachEventListeners(){
+    let count=0;
+    document.getElementById("clickMe").addEventListener("click", function xyz(){
+    console.log("Button clicked",++count);
+        });
 }
-a();
-b();
+attachEventListeners() ;

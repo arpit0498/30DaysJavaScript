@@ -106,3 +106,60 @@ The ability of functions to be used as values, passed to an argument as another 
 > Functions are first class citizens.
 
 <hr>
+
+## Episode 14 Callback functions
+
+### Topics
+
+    - What is a Callback functions in javascript?
+    -Javascript is a synchronous and single-threaded language
+    -Blocking the main thread
+    -Power of  Callbacks
+    -Deep about Event listeners
+    -closures demo with event listeners
+    -scope demo with event listener
+    -garbage collection & remove event listeners
+
+## What is a Callback functions in javascript?
+
+#### Index.js
+
+```javascript
+setTimeout(function () {
+  console.log("timer");
+}, 5000);
+function x(y) {
+  console.log("x");
+  y();
+}
+
+x(function y() {
+  console.log("y");
+});
+```
+
+#### Output
+
+```javascript
+x;
+y;
+timer; //after 5 seconds
+```
+
+<hr>
+
+```javascript
+function attachEventListeners() {
+  let count = 0;
+  document.getElementById("clickMe").addEventListener("click", function xyz() {
+    console.log("Button clicked", ++count);
+  });
+}
+attachEventListeners();
+```
+
+#### callback functions in Developer tools
+
+<img src="./Assets/callbackfunctions.png">
+    All scopes 
+<img src="./Assets/CbScopes.png">

@@ -58,6 +58,8 @@ Completed the playlist ✔
 -Link to the playlist 👇 <br>
 
 <a href="https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP" >Namastey JavaScript </a>
+  
+  ## Day 6
 
 
   

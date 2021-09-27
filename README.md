@@ -60,6 +60,18 @@ Completed the playlist ✔
 <a href="https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP" >Namastey JavaScript </a>
   
   ## Day 6
+  
+  ## Topics covered
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management"> Mark and sweep garbage collection algorithm</a>
+  <br>
+       <a href="https://gist.github.com/nitin42/4081f288f27cce79cde2bb38ebe70087"> mark and sweep implementation </a>
+  <br>
+   <a href="https://javascript.info/garbage-collection"> garbage collection </a>
+  <br>
+     <a href="https://blog.stackpath.com/v8-javascript-engine/"> V8 JS Engine </a>
+
+
+  
 
 
   

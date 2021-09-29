@@ -13,11 +13,13 @@
     
 
     const html = digits.map(generateHTML).join('');
+    gallery.innerHTML=html;
     console.log(html);
+
 
         function generateHTML([h,v]){
         return`
-        <div class ="item h${h} v ${v}>
+        <div class ="item h${h} v ${v}">
             <img src ="images/${randomNumber(12)}.jpg">
                 <div class="item__overlay">
                     <button>view 🎫</button>

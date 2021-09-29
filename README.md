@@ -73,6 +73,15 @@ Completed the playlist ✔
 
 <p>clock with css and js</p>
 
-clock with ja and css
+clock with jS and css
 
 ## Day 8
+
+-Learnt about CSS grid and make basic CSS grid template design .
+<br>
+<a href="https://codepen.io/arpit0498/pen/eYRxWYm">CodePen link</a>
+<img src="./DAY_08/images/cssGrid.gif" alt="CSS_grid">
+
+<p>-After that created simple project of image gallery and applied js for generating html structure based on the page dimensions.</p>
+
+<img src="./DAY_08/images/imageGallery.gif" alt="image gallery">

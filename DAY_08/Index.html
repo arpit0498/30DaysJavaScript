@@ -54,6 +54,22 @@
             background-color: darkgreen;
             grid-area: footer;
         }
+        @media only screen and (max-width:550px)
+        {
+            .container{
+                grid-template-columns: 1fr;
+                grid-template-rows: .4 fr , .4fr , 2.2fr ,1.2 fr ,1.2 fr,1.2fr,1 fr;
+                grid-template-areas: 
+                "nav"
+                "sidebar"
+                "main"
+                "content1"
+                "content2"
+                "content3"
+                "footer";
+                ;
+            }
+        }
     </style>
 </head>
 <body>

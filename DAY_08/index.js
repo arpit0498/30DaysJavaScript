@@ -9,7 +9,7 @@
         return Math.floor(Math.random() * limit)+1;
     }
 
-    const digits = Array.from({length:50}, ()=>[randomNumber(4), randomNumber(4)]);
+    const digits = Array.from({length:50}, ()=>[randomNumber(4), randomNumber(4)]).concat([[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1],[1,1]]);
     
 
     const html = digits.map(generateHTML).join('');

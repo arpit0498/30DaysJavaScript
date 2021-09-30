@@ -85,3 +85,11 @@ clock with jS and css
 <p>-After that created simple project of image gallery and applied js for generating html structure based on the page dimensions.</p>
 
 <img src="./DAY_08/images/imageGallery.gif" alt="image gallery">
+  
+  ### resources
+  <a href="https://www.w3schools.com/css/css_grid.asp">W3schools</a>
+  <br>
+    <a href="https://css-tricks.com/snippets/css/complete-guide-grid/">CSS tricks</a>
+  <br>
+    <a href="https://cssgrid.io/">CSSgrid.io</a>
+  <br>

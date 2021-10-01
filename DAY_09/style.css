@@ -1,0 +1,13 @@
+html {
+  box-sizing: border-box;
+  font-size: 10px;
+  background: #8E24AA;
+  background: linear-gradient(45deg,  #e00c9ada 0%,#360c9796 50%,#9b0e77a4 100%);
+}
+
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Inconsolata', monospace;
+}

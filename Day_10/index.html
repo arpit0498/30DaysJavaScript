@@ -2,33 +2,64 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Nav</title>
+  <title>Follow Along Nav</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
-    <nav>
-      <ul class="menu">
-        <li><a href="">Home</a></li>
-        <li><a href="">Order Status</a></li>
-        <li><a href="">Tweets</a></li>
-        <li><a href="">Read Our History</a></li>
-        <li><a href="">Contact Us</a></li>
-      </ul>
-    </nav>
-
-    <div class="wrapper">
-      <p>Lorem ipsum dolor sit amet, <a href="">consectetur</a> adipisicing elit. Est <a href="">explicabo</a> unde natus necessitatibus esse obcaecati distinctio, aut itaque, qui vitae!</p>
-      <p>Aspernatur sapiente quae sint <a href="">soluta</a> modi, atque praesentium laborum pariatur earum <a href="">quaerat</a> cupiditate consequuntur facilis ullam dignissimos, aperiam quam veniam.</p>
-      <p>Cum ipsam quod, incidunt sit ex <a href="">tempore</a> placeat maxime <a href="">corrupti</a> possimus <a href="">veritatis</a> ipsum fugit recusandae est doloremque? Hic, <a href="">quibusdam</a>, nulla.</p>
-      <p>Esse quibusdam, ad, ducimus cupiditate <a href="">nulla</a>, quae magni odit <a href="">totam</a> ut consequatur eveniet sunt quam provident sapiente dicta neque quod.</p>
-      <p>Aliquam <a href="">dicta</a> sequi culpa fugiat <a href="">consequuntur</a> pariatur optio ad minima, maxime <a href="">odio</a>, distinctio magni impedit tempore enim repellendus <a href="">repudiandae</a> quas!</p>
+  
+  <nav class="top">
+    <div class="dropdownBackground">
+      <span class="arrow"></span>
     </div>
 
-  <script src="index.js
-  ">
-        
-  </script>
-</body>
-</html>
-
+    <ul class="cool">
+      <li>
+        <a href="#">About Me</a>
+        <div class="dropdown dropdown1">
+          <div class="bio">
+            <img src="https://media-exp1.licdn.com/dms/image/C5103AQEgS8KmybxHpg/profile-displayphoto-shrink_800_800/0/1518783125635?e=1638403200&v=beta&t=TkC5snqtIsyPbQAPnMxi-C-0xB7KRjqaJt3hxpAc-wU" width="250px">
+            <p>Arpit Gupta . web developer . Completed my B.Tech from Banglore . </p>
+          </div>
+        </div>
+      </li>
+      <li>
+        <a href="#">Skills</a>
+        <ul class="dropdown courses">
+          <li>
+            <span class="code">React</span>
+            <a href="#"> Learn React For Beginners</a>
+          </li>
+          <li>
+            <span class="code">ES6</span>
+            <a href="#">Learn ES6 </a>
+          </li>
+         
+         
+          <li>
+            <span class="code">GRID</span>
+            <a href="#">SCSS Grid</a>
+          </li>
+          
+          <li>
+            <span class="code">CL</span>
+            <a href="">Command Line </a>
+          </li>
+          <li>
+            <span class="code">HTML</span>
+            <a href="">Hyper Text Markdown Language</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="#">Social Links</a>
+        <ul class="dropdown dropdown3">
+          <li><a class="button" href="https://twitter.com/arpit___gupta">Twitter</a></li>
+          <li><a class="button" href="https://www.facebook.com/arpit0407/">Facebook</a></li>
+          <li><a class="button" href="https://www.linkedin.com/in/arpit0498/">Linkedin</a></li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
+  <script src="./index.js"></script>
+  </body>
+  </html>

@@ -98,3 +98,9 @@ clock with jS and css
   countdown timer
 
 <img src="./DAY_09/Assets/countDown.gif" alt="Countdown project">
+
+## Day 10
+
+Drop down menu
+
+<img src="./Day_10/Assets/dropdown.gif" alt="dropdown project">

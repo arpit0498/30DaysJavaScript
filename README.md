@@ -104,3 +104,15 @@ clock with jS and css
 Drop down menu
 
 <img src="./Day_10/Assets/dropdown.gif" alt="dropdown project">
+
+## Day 11
+
+Secret code for confirmation. Add
+-Draw random images on screen on random places
+-uses cornify_add
+
+<a href="https://www.cornify.com/">Cornify</a>
+
+<img src="./Day_11/Assets/secretcode.gif">
+
+<a src="./Day_11/index.html">Code Link </a>

@@ -116,3 +116,11 @@ Secret code for confirmation. Add
 <img src="./Day_11/Assets/secretcode.gif">
 
 <a href="./Day_11/index.html">Code Link </a>
+
+## Day 11
+
+CSS variable using js
+
+<img src="./Day_12/Assets/cssvar.gif">
+
+<a href="./Day_12/index.html">Code Link </a>

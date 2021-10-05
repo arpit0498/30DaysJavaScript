@@ -126,3 +126,9 @@ CSS variable using js
 <a href="./Day_12/index.html">Code Link </a>
 
 ## Day 13
+
+Flex Image gallery
+
+<img src="./DAY_13/Assets/flex.gif">
+
+<a href="./DAY_13/">Code Link </a>

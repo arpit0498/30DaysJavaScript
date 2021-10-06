@@ -134,3 +134,9 @@ Flex Image gallery
 <a href="./DAY_13/">Code Link </a>
 
 ## Day 14
+
+Sticky navigation using js
+
+<img src="./DAY_14/Asset/stickynav.gif">
+
+<a href="./DAY_14/">Code Link </a>

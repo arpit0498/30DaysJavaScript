@@ -150,3 +150,6 @@ Shadow over mouse move!
 <a href="./DAY_15/">Code Link </a>
 
 ## Day 16
+
+reference vs copy
+objects and arrays

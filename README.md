@@ -154,3 +154,24 @@ Shadow over mouse move!
 reference vs copy
 <br>
 objects and arrays
+
+### Resources:
+
+<br>
+
+video:
+
+<li>
+<a href="https://youtu.be/YnfwDQ5XYF4">reference vs copy</a>
+</li>
+Articles:
+<li>
+<a href="https://javascript.info/object-copy">object-copy</a>
+</li>
+
+<li>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax">Array Spread operator</a>
+</li>
+<br>
+
+> #### Note : Spread doesn't work on objects in javascript

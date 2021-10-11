@@ -180,6 +180,10 @@ Articles:
 
 ## Day 17
 
+Apply bind() methods
+
+## Day 18
+
 Throttling in JavaScript
 
 ### Resources
@@ -192,7 +196,7 @@ Video:
 
 <br>
 
-## Day 18
+## Day 19
 
 Javascript array reduce working =>
 Total video time by adding individual video time
@@ -201,4 +205,4 @@ Total video time by adding individual video time
 
 ### code link:
 
-<a href="./DAY_18/"> Day 18</a>
+<a href="./DAY_1/"> Day 19</a>

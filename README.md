@@ -201,8 +201,8 @@ Video:
 Javascript array reduce working =>
 Total video time by adding individual video time
 
-<img src="./DAY_18/Assets/arrayreduce.png">array reduce</img>
+<img src="./DAY_19/Assets/arrayreduce.png">array reduce</img>
 
 ### code link:
 
-<a href="./DAY_1/"> Day 19</a>
+<a href="./DAY_19/"> Day 19</a>

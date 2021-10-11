@@ -201,4 +201,4 @@ Total video time by adding individual video time
 
 ### code link:
 
-<a src="./DAY_18/"> Day 18</a>
+<a href="./DAY_18/"> Day 18</a>

@@ -176,4 +176,20 @@ Articles:
 
 > #### Note : Spread doesn't work on objects in javascript
 
+<br>
+
 ## Day 17
+
+Throttling in JavaScript
+
+### Resources
+
+<br>
+
+Video:
+
+<a href="https://www.youtube.com/watch?v=81NGEXAaa3Y&list=PLlasXeu85E9eLVlWFs-nz5PKXJU4f7Fks&index=9">Throttling in Javascript</a>
+
+<br>
+
+## Day 18

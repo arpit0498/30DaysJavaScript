@@ -193,3 +193,12 @@ Video:
 <br>
 
 ## Day 18
+
+Javascript array reduce working =>
+Total video time by adding individual video time
+
+<img src="./DAY_18/Assets/arrayreduce.png">array reduce</img>
+
+### code link:
+
+<a src="./DAY_18/"> Day 18</a>

@@ -206,3 +206,13 @@ Total video time by adding individual video time
 ### code link:
 
 <a href="./DAY_19/"> Day 19</a>
+
+## Day 20
+
+Sort names without article (the , a ,an)
+
+<img src="./DAY_20/Assets/sort.png">sort without articles</img>
+
+### code link:
+
+<a href="./DAY_20"> Day 20</a>

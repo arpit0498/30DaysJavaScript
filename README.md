@@ -216,3 +216,13 @@ Sort names without article (the , a ,an)
 ### code link:
 
 <a href="./DAY_20"> Day 20</a>
+
+## Day 21
+
+Drag and scroll
+
+<img src="./DAY_21/Assets/dragScroll.gif">Drag and scroll</img>
+
+### code link:
+
+<a href="./DAY_21"> Day 21</a>

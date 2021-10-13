@@ -19,8 +19,8 @@ body {
 }
 
 .items {
-  height: 800px;
-  padding: 100px;
+  height: 80vh;
+  padding: 10vh;
   width: 100%;
   border: 1px solid white;
   overflow-x: scroll;

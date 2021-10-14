@@ -226,3 +226,7 @@ Drag and scroll
 ### code link:
 
 <a href="./DAY_21"> Day 21</a>
+
+## Day 22
+
+How Local storage and event delegation work in js

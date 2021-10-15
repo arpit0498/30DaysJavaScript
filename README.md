@@ -230,3 +230,5 @@ Drag and scroll
 ## Day 22
 
 How Local storage and event delegation work in js
+
+## Day 23

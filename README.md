@@ -232,3 +232,12 @@ Drag and scroll
 How Local storage and event delegation work in js
 
 ## Day 23
+
+HTML video player with
+speed , skip seconds , volume featues
+
+<img src="./DAY_23/Assets/videoplayer.gif">Video player</img>
+
+### code link:
+
+<a href="./DAY_23/"> Day 23</a>

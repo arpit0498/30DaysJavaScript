@@ -18,6 +18,11 @@ body {
   justify-content: center;
 }
 
+h1 ,h2, h3{
+  color: goldenrod;
+  display: block;
+}
+
 .player {
   max-width: 750px;
   border: 5px solid rgba(0,0,0,0.2);

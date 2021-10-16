@@ -243,3 +243,11 @@ speed , skip seconds , volume featues
 <a href="./DAY_23/"> Day 23</a>
 
 ## Day 24
+
+Image Slide in during scroll page
+
+<img src="./DAY_24/Assets/sidescroll.gif">Image slide in</img>
+
+### code link:
+
+<a href="./DAY_24/"> Day 24</a>

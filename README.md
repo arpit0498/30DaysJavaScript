@@ -251,5 +251,7 @@ Image Slide in during scroll page
 ### code link:
 
 <a href="./DAY_24/"> Day 24</a>
-  
-  ## Day 25
+
+## Day 25
+
+Digital clock using js

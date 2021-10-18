@@ -255,3 +255,9 @@ Image Slide in during scroll page
 ## Day 25
 
 Digital clock using js
+
+<img src="./DAY_25/Assets/digiclock.gif">Digital clock with dark mode</img>
+
+### code link:
+
+<a href="./DAY_25/"> Day 25</a>

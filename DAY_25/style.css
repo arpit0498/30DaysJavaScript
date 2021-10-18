@@ -21,7 +21,7 @@ section.dark{
 }
 section .container{
   display: flex;
-  align-items center;
+  align-items :center;
   justify-content: center;
   height: 220px;
   max-width: 560px;

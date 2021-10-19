@@ -261,3 +261,13 @@ Digital clock using js
 ### code link:
 
 <a href="./DAY_25/"> Day 25</a>
+
+## Day 26
+
+Event delegation in javascript
+
+### Resources
+
+Video:
+
+<a href="https://www.youtube.com/watch?v=81NGEXAaa3Y&list=PLlasXeu85E9eLVlWFs-nz5PKXJU4f7Fks&index=9">Event delegation in Javascript</a>

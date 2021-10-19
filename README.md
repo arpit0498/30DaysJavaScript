@@ -270,4 +270,4 @@ Event delegation in javascript
 
 Video:
 
-<a href="https://www.youtube.com/watch?v=81NGEXAaa3Y&list=PLlasXeu85E9eLVlWFs-nz5PKXJU4f7Fks&index=9">Event delegation in Javascript</a>
+<a href="https://www.youtube.com/watch?v=3KJI1WZGDrg&list=PLlasXeu85E9eLVlWFs-nz5PKXJU4f7Fks&index=7">Event delegation in Javascript</a>

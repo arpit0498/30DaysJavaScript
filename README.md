@@ -271,3 +271,13 @@ Event delegation in javascript
 Video:
 
 <a href="https://www.youtube.com/watch?v=3KJI1WZGDrg&list=PLlasXeu85E9eLVlWFs-nz5PKXJU4f7Fks&index=7">Event delegation in Javascript</a>
+
+## Day 27
+
+Prototype and Prototypal Inheritance in Javascript
+
+### Resources
+
+Video:
+
+<a href="https://www.youtube.com/watch?v=wstwjQ1yqWQ&list=PLlasXeu85E9eLVlWFs-nz5PKXJU4f7Fks&index=8">Prototype and Prototypal Inheritance in Javascript</a>

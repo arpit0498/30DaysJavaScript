@@ -281,3 +281,14 @@ Prototype and Prototypal Inheritance in Javascript
 Video:
 
 <a href="https://www.youtube.com/watch?v=wstwjQ1yqWQ&list=PLlasXeu85E9eLVlWFs-nz5PKXJU4f7Fks&index=8">Prototype and Prototypal Inheritance in Javascript</a>
+  
+
+## Day 28
+
+Local Storage & Session Storage 
+
+### Resources
+
+Video:
+
+<a href="https://www.youtube.com/watch?v=MOd5cTJ6kaA&list=PLlasXeu85E9eLVlWFs-nz5PKXJU4f7Fks&index=11">Local Storage & Session Storage </a>

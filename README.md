@@ -301,3 +301,13 @@ calculator
 ### code link:
 
 <a href="./DAY_29/"> Day 29</a>
+
+## Day 29
+
+Side bar
+
+<img src="./DAY_30/Assets/sidebar.gif">Sidebar Design</img>
+
+### code link:
+
+<a href="./DAY_30/"> Day 30</a>

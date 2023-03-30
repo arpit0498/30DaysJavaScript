@@ -12,7 +12,7 @@ Watched first 7 videos in the playlist. Link to the playlist 👇 <br>
 [Namastey JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 
 
-![Namasteyjavascript](/DAY_01/assets/namsteJS.jpg "Text to show on mouseover")
+![Namasteyjavascript](/DAY_01/assets/namsteJS.jpg)
 <!-- <a href="https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP" >Namastey JavaScript </a> -->
 
 <!-- <img src="/DAY_01/assets/namsteJS.jpg" alt="Namasteyjavascript" width="400" height="600"></img> -->
@@ -25,14 +25,14 @@ Watched another 5 videos in the playlist. Link to the playlist 👇 <br>
 
 [Namastey JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 
-![Namasteyjavascript Day 2](/DAY_02/Assets/namastejs2.jpg "Text to show on mouseover")
+![Namasteyjavascript Day 2](/DAY_02/Assets/namastejs2.jpg)
 
 <!-- <a href="https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP" >Namastey JavaScript </a>
 
 
 <img src="/DAY_02/Assets/namastejs2.jpg" width="400" height="600"> -->
   
- ## DAY 3
+## DAY 3
 
 <i>Day 3</i>, Today I tried to solve some easy exercises on the _Exercism_ platform.
 
@@ -115,8 +115,8 @@ clock with jS and CSS
 <p>-After that created simple project of image gallery and applied js for generating html structure based on the page dimensions.</p>
 
 <img src="./DAY_08/images/imageGallery.gif" alt="image gallery">
-  
-  ### *resources*
+
+### *resources*
 
   <a href="https://www.w3schools.com/css/css_grid.asp">W3schools</a>
   <br>
@@ -246,7 +246,7 @@ Total video time by adding individual video time
 
 Sort names without article (the , a ,an)
 
-<img src="./DAY_20/Assets/sort.png"></img>
+<img src="./DAY_20/Assets/sort.png">
 
 ### code link:
 
@@ -256,7 +256,7 @@ Sort names without article (the , a ,an)
 
 Drag and scroll
 
-<img src="./DAY_21/Assets/dragScroll.gif"></img>
+<img src="./DAY_21/Assets/dragScroll.gif">
 
 ### code link:
 
@@ -271,7 +271,7 @@ How Local storage and event delegation work in js
 HTML video player with
 speed , skip seconds , volume featues
 
-<img src="./DAY_23/Assets/videoplayer.gif"></img>
+<img src="./DAY_23/Assets/videoplayer.gif">
 
 ### code link:
 
@@ -281,7 +281,7 @@ speed , skip seconds , volume featues
 
 Image Slide in during scroll page
 
-<img src="./DAY_24/Assets/sidescroll.gif"></img>
+<img src="./DAY_24/Assets/sidescroll.gif">
 
 ### code link:
 
@@ -291,7 +291,7 @@ Image Slide in during scroll page
 
 Digital clock using js
 
-<img src="./DAY_25/Assets/digiclock.gif"></img>
+<img src="./DAY_25/Assets/digiclock.gif">
 
 ### code link:
 
@@ -331,7 +331,7 @@ Video:
 
 calculator
 
-<img src="./DAY_29/Assets/calculator.gif"></img>
+<img src="./DAY_29/Assets/calculator.gif">
 
 ### code link:
 
@@ -341,7 +341,7 @@ calculator
 
 Side bar
 
-<img src="./DAY_30/Assets/sidebar.gif"></img>
+<img src="./DAY_30/Assets/sidebar.gif">
 
 ### code link:
 

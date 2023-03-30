@@ -9,29 +9,42 @@
 Started my <i>Day 1</i> with the <b>Namastey JavaScript <b>
 
 Watched first 7 videos in the playlist. Link to the playlist 👇 <br>
-<a href="https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP" >Namastey JavaScript </a>
+[Namastey JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 
-<img src="/DAY_01/assets/namsteJS.jpg" alt="Namasteyjavascript" width="400" height="600"></img>
+
+![Namasteyjavascript](/DAY_01/assets/namsteJS.jpg "Text to show on mouseover")
+<!-- <a href="https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP" >Namastey JavaScript </a> -->
+
+<!-- <img src="/DAY_01/assets/namsteJS.jpg" alt="Namasteyjavascript" width="400" height="600"></img> -->
 
 ## DAY 2
 
 <i>Day 2</i> with the <b>Namastey JavaScript <b>
 
 Watched another 5 videos in the playlist. Link to the playlist 👇 <br>
-<a href="https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP" >Namastey JavaScript </a>
 
-<img src="/DAY_02/Assets/namastejs2.jpg" width="400" height="600">
+[Namastey JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+
+![Namasteyjavascript Day 2](/DAY_02/Assets/namastejs2.jpg "Text to show on mouseover")
+
+<!-- <a href="https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP" >Namastey JavaScript </a>
+
+
+<img src="/DAY_02/Assets/namastejs2.jpg" width="400" height="600"> -->
   
  ## DAY 3
 
-<i>Day 3</i>, Today i tried to solve some easy exercises on the _Exercism_ platform.
+<i>Day 3</i>, Today I tried to solve some easy exercises on the _Exercism_ platform.
 
  <p> Exercism is an online, open-source, free coding platform that offers code practice and mentorship on 50 different programming languages.</p>
 
 Link to the website 👇 <br>
-<a href="https://exercism.org/dashboard" >Exercism </a>
 
-<img src="https://en.wikipedia.org/wiki/Exercism#/media/File:Exercism_Logo.png">
+[Exercism](https://exercism.org/dashboard)
+
+<!-- <a href="https://exercism.org/dashboard" >Exercism </a> -->
+
+
 
 ## Day 4
 
@@ -39,13 +52,17 @@ Link to the website 👇 <br>
 
 Watched another 2 Episodes in the playlist Episode 14 and Episode 15.
 
-watch the topics covered in <a href="./DAY_04/DAY_04.md">DAY_04
+watch the topics covered in 
+[Day 4](./DAY_04/DAY_04.md)
+<!-- <a href="./DAY_04/DAY_04.md">DAY_04 -->
 
 -Link to the playlist 👇 <br>
+[Namastey JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 
-<a href="https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP" >Namastey JavaScript </a>
+<!-- <a href="https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP" >Namastey JavaScript </a> -->
+![DAy 4](/DAY_04/Assets/DAY_04.jpg)
 
-<img src="/DAY_04/Assets/DAY_04.jpg" width="400" height="600">
+<!-- <img src="/DAY_04/Assets/DAY_04.jpg" width="400" height="600"> -->
 
 ## Day 5
 
@@ -55,29 +72,42 @@ Completed the playlist ✔
 
 -Link to the playlist 👇 <br>
 
-<a href="https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP" >Namastey JavaScript </a>
+[Namastey JS](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+
+<!-- <a href="https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP" >Namastey JavaScript </a> -->
 
 ## Day 6
 
 ## Topics covered
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management"> Mark and sweep garbage collection algorithm</a>
+[Mark and sweep garbage collection algorithm](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
+
+<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management"> Mark and sweep garbage collection algorithm</a> -->
 <br>
-<a href="https://gist.github.com/nitin42/4081f288f27cce79cde2bb38ebe70087"> mark and sweep implementation </a>
+
+[Mark and sweep implementation](https://gist.github.com/nitin42/4081f288f27cce79cde2bb38ebe70087)
+
+<!-- <a href="https://gist.github.com/nitin42/4081f288f27cce79cde2bb38ebe70087"> mark and sweep implementation </a> -->
 <br>
-<a href="https://javascript.info/garbage-collection"> garbage collection </a>
+
+[garbage collection](https://javascript.info/garbage-collection)
+<!-- <a href="https://javascript.info/garbage-collection"> garbage collection </a> -->
+
 <br>
-<a href="https://blog.stackpath.com/v8-javascript-engine/"> V8 JS Engine </a>
+
+[V8 JS Engine](https://blog.stackpath.com/v8-javascript-engine/)
+
+<!-- <a href="https://blog.stackpath.com/v8-javascript-engine/"> V8 JS Engine </a> -->
 
 ## Day 7
 
-<p>clock with css and js</p>
+<p>clock with CSS and js</p>
 
-clock with jS and css
+clock with jS and CSS
 
 ## Day 8
 
--Learnt about CSS grid and make basic CSS grid template design .
+-Learnt about CSS grid and make basic CSS grid template design.
 <br>
 <a href="https://codepen.io/arpit0498/pen/eYRxWYm">CodePen link</a>
 <img src="./DAY_08/images/cssGrid.gif" alt="CSS_grid">
@@ -86,7 +116,8 @@ clock with jS and css
 
 <img src="./DAY_08/images/imageGallery.gif" alt="image gallery">
   
-  ### resources
+  ### *resources*
+
   <a href="https://www.w3schools.com/css/css_grid.asp">W3schools</a>
   <br>
     <a href="https://css-tricks.com/snippets/css/complete-guide-grid/">CSS tricks</a>
@@ -152,10 +183,12 @@ Shadow over mouse move!
 ## Day 16
 
 reference vs copy
+
 <br>
+
 objects and arrays
 
-### Resources:
+### *Resources:*
 
 <br>
 
@@ -201,7 +234,9 @@ Video:
 Javascript array reduce working =>
 Total video time by adding individual video time
 
-<img src="./DAY_19/Assets/arrayreduce.png">array reduce</img>
+[Day 19](./DAY_19/Assets/arrayreduce.png)
+
+<!-- <img src="./DAY_19/Assets/arrayreduce.png"></img> -->
 
 ### code link:
 
@@ -211,7 +246,7 @@ Total video time by adding individual video time
 
 Sort names without article (the , a ,an)
 
-<img src="./DAY_20/Assets/sort.png">sort without articles</img>
+<img src="./DAY_20/Assets/sort.png"></img>
 
 ### code link:
 
@@ -221,7 +256,7 @@ Sort names without article (the , a ,an)
 
 Drag and scroll
 
-<img src="./DAY_21/Assets/dragScroll.gif">Drag and scroll</img>
+<img src="./DAY_21/Assets/dragScroll.gif"></img>
 
 ### code link:
 
@@ -236,7 +271,7 @@ How Local storage and event delegation work in js
 HTML video player with
 speed , skip seconds , volume featues
 
-<img src="./DAY_23/Assets/videoplayer.gif">Video player</img>
+<img src="./DAY_23/Assets/videoplayer.gif"></img>
 
 ### code link:
 
@@ -246,7 +281,7 @@ speed , skip seconds , volume featues
 
 Image Slide in during scroll page
 
-<img src="./DAY_24/Assets/sidescroll.gif">Image slide in</img>
+<img src="./DAY_24/Assets/sidescroll.gif"></img>
 
 ### code link:
 
@@ -256,7 +291,7 @@ Image Slide in during scroll page
 
 Digital clock using js
 
-<img src="./DAY_25/Assets/digiclock.gif">Digital clock with dark mode</img>
+<img src="./DAY_25/Assets/digiclock.gif"></img>
 
 ### code link:
 
@@ -296,7 +331,7 @@ Video:
 
 calculator
 
-<img src="./DAY_29/Assets/calculator.gif">Glass design calculator</img>
+<img src="./DAY_29/Assets/calculator.gif"></img>
 
 ### code link:
 
@@ -306,7 +341,7 @@ calculator
 
 Side bar
 
-<img src="./DAY_30/Assets/sidebar.gif">Sidebar Design</img>
+<img src="./DAY_30/Assets/sidebar.gif"></img>
 
 ### code link:
 
